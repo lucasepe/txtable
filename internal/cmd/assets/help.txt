@@ -1,0 +1,16 @@
+  ╺┳╸┏━┓┏┓ ╻  ┏━╸  by LS71
+tx ┃ ┣━┫┣┻┓┃  ┣╸   https://github.com/lucasepe 
+   ╹ ╹ ╹┗━┛┗━╸┗━╸ 
+Make your CSVs look fancy.
+
+USAGE:
+
+  txtable [flags] [file]
+
+EXAMPLES:
+
+  Pipe a CSV from stdin:
+    cat data.csv | txtable
+
+  Read a CSV from a file:
+    txtable data.csv
