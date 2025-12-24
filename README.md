@@ -1,8 +1,8 @@
 # `txtable`
 
-> Make your CSVs look fancy in the terminal.
+> Make your CSVs look fancy.
 
-`txtable` transforms your CSV files into clean, readable, and styled tables right in your terminal. Perfect for CLI output and copying tables as ASCII into documents or reports.
+`txtable` transforms your CSV files into clean, readable, and styled tables right in your terminal. Perfect for CLI output and copying tables as Unicode (or ASCII) into documents or reports.
 
 ## Features
 
@@ -10,7 +10,7 @@
 - Choose table themes: `classic`, `compact`, `heavy`, `light`, `rounded`
 - Align table cells and header: `left`, `center`, `right`
 - Optional wrapping of cell content with configurable width
-- Output ready for the terminal and ASCII-friendly for copy/paste
+- Output ready for the terminal and Unicode/ASCII friendly for copy/paste
 
 ## Usage
 
